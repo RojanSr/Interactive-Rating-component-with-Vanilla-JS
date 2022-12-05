@@ -1,0 +1,1 @@
+document.getElementById("chosenInfo").innerHTML = `You selected ${localStorage.getItem("rating")} out of 5`
